@@ -1,15 +1,3 @@
-# Preface
-* [Warehouse]()
-* [Declaration]()
-* [Array]()
-* [HexConversion]()
-* [List]()
-* [Tree]()
-* [KMP]()
-* [UnionFind]()
-* [GraphUsingMatrix]()
-* [GraphUsingAdjacencyTable]()
-* [TrieTree]()
 # Declaration
 ```c++
 struct ListNode {
