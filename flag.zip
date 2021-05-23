@@ -1,0 +1,408 @@
+GET /static/images/ctf/hex.png HTTP/1.1
+Host: ctf.ssleye.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://ctf.ssleye.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: Hm_lvt_34a942241ce2f6c20e8a5dc3069deee3=1589725229; Hm_lvt_beeb9fcd2a1fda9ad214b7e950c372fe=1592036448,1593309239,1593676772,1593714081; Hm_lpvt_beeb9fcd2a1fda9ad214b7e950c372fe=1593958601
+If-None-Match: "1533635397.0-602-433983074"
+If-Modified-Since: Tue, 07 Aug 2018 09:49:57 GMT
+
+HTTP/1.1 304 NOT MODIFIED
+Server: nginx/1.14.0
+Date: Sun, 05 Jul 2020 14:26:18 GMT
+Connection: keep-alive
+Cache-Control: public, max-age=43200
+Expires: Mon, 06 Jul 2020 02:26:18 GMT
+ETag: "1533635397.0-602-433983074"
+Accept-Ranges: bytes
+
+GET /static/images/ctf/url.png HTTP/1.1
+Host: ctf.ssleye.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://ctf.ssleye.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: Hm_lvt_34a942241ce2f6c20e8a5dc3069deee3=1589725229; Hm_lvt_beeb9fcd2a1fda9ad214b7e950c372fe=1592036448,1593309239,1593676772,1593714081; Hm_lpvt_beeb9fcd2a1fda9ad214b7e950c372fe=1593958601
+If-None-Match: "1533635401.0-457-441126512"
+If-Modified-Since: Tue, 07 Aug 2018 09:50:01 GMT
+
+HTTP/1.1 304 NOT MODIFIED
+Server: nginx/1.14.0
+Date: Sun, 05 Jul 2020 14:26:18 GMT
+Connection: keep-alive
+Cache-Control: public, max-age=43200
+Expires: Mon, 06 Jul 2020 02:26:18 GMT
+ETag: "1533635401.0-457-441126512"
+Accept-Ranges: bytes
+
+GET /static/images/ctf/mimetypes.png HTTP/1.1
+Host: ctf.ssleye.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://ctf.ssleye.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: Hm_lvt_34a942241ce2f6c20e8a5dc3069deee3=1589725229; Hm_lvt_beeb9fcd2a1fda9ad214b7e950c372fe=1592036448,1593309239,1593676772,1593714081; Hm_lpvt_beeb9fcd2a1fda9ad214b7e950c372fe=1593958601
+If-None-Match: "1533635398.0-893-2062225658"
+If-Modified-Since: Tue, 07 Aug 2018 09:49:58 GMT
+
+HTTP/1.1 304 NOT MODIFIED
+Server: nginx/1.14.0
+Date: Sun, 05 Jul 2020 14:26:18 GMT
+Connection: keep-alive
+Cache-Control: public, max-age=43200
+Expires: Mon, 06 Jul 2020 02:26:18 GMT
+ETag: "1533635398.0-893-2062225658"
+Accept-Ranges: bytes
+
+GET /static/images/ctf/tapcode.png HTTP/1.1
+Host: ctf.ssleye.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://ctf.ssleye.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: Hm_lvt_34a942241ce2f6c20e8a5dc3069deee3=1589725229; Hm_lvt_beeb9fcd2a1fda9ad214b7e950c372fe=1592036448,1593309239,1593676772,1593714081; Hm_lpvt_beeb9fcd2a1fda9ad214b7e950c372fe=1593958601
+If-None-Match: "1533635401.0-295-1478496253"
+If-Modified-Since: Tue, 07 Aug 2018 09:50:01 GMT
+
+HTTP/1.1 304 NOT MODIFIED
+Server: nginx/1.14.0
+Date: Sun, 05 Jul 2020 14:26:18 GMT
+Connection: keep-alive
+Cache-Control: public, max-age=43200
+Expires: Mon, 06 Jul 2020 02:26:18 GMT
+ETag: "1533635401.0-295-1478496253"
+Accept-Ranges: bytes
+
+GET /static/images/ctf/base58.png HTTP/1.1
+Host: ctf.ssleye.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://ctf.ssleye.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: Hm_lvt_34a942241ce2f6c20e8a5dc3069deee3=1589725229; Hm_lvt_beeb9fcd2a1fda9ad214b7e950c372fe=1592036448,1593309239,1593676772,1593714081; Hm_lpvt_beeb9fcd2a1fda9ad214b7e950c372fe=1593958601
+If-None-Match: "1533635393.0-714-1161563941"
+If-Modified-Since: Tue, 07 Aug 2018 09:49:53 GMT
+
+HTTP/1.1 304 NOT MODIFIED
+Server: nginx/1.14.0
+Date: Sun, 05 Jul 2020 14:26:18 GMT
+Connection: keep-alive
+Cache-Control: public, max-age=43200
+Expires: Mon, 06 Jul 2020 02:26:18 GMT
+ETag: "1533635393.0-714-1161563941"
+Accept-Ranges: bytes
+
+GET /static/images/ctf/rsa_asys.png HTTP/1.1
+Host: ctf.ssleye.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://ctf.ssleye.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: Hm_lvt_34a942241ce2f6c20e8a5dc3069deee3=1589725229; Hm_lvt_beeb9fcd2a1fda9ad214b7e950c372fe=1592036448,1593309239,1593676772,1593714081; Hm_lpvt_beeb9fcd2a1fda9ad214b7e950c372fe=1593959176
+If-None-Match: "1533635401.0-835-1766723714"
+If-Modified-Since: Tue, 07 Aug 2018 09:50:01 GMT
+
+HTTP/1.1 304 NOT MODIFIED
+Server: nginx/1.14.0
+Date: Sun, 05 Jul 2020 14:26:18 GMT
+Connection: keep-alive
+Cache-Control: public, max-age=43200
+Expires: Mon, 06 Jul 2020 02:26:18 GMT
+ETag: "1533635401.0-835-1766723714"
+Accept-Ranges: bytes
+
+GET /static/images/ctf/atbash.png HTTP/1.1
+Host: ctf.ssleye.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://ctf.ssleye.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: Hm_lvt_34a942241ce2f6c20e8a5dc3069deee3=1589725229; Hm_lvt_beeb9fcd2a1fda9ad214b7e950c372fe=1592036448,1593309239,1593676772,1593714081; Hm_lpvt_beeb9fcd2a1fda9ad214b7e950c372fe=1593959176
+If-None-Match: "1533635393.0-285-1201475472"
+If-Modified-Since: Tue, 07 Aug 2018 09:49:53 GMT
+
+HTTP/1.1 304 NOT MODIFIED
+Server: nginx/1.14.0
+Date: Sun, 05 Jul 2020 14:26:18 GMT
+Connection: keep-alive
+Cache-Control: public, max-age=43200
+Expires: Mon, 06 Jul 2020 02:26:18 GMT
+ETag: "1533635393.0-285-1201475472"
+Accept-Ranges: bytes
+
+GET /static/images/ctf/enigma.png HTTP/1.1
+Host: ctf.ssleye.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://ctf.ssleye.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: Hm_lvt_34a942241ce2f6c20e8a5dc3069deee3=1589725229; Hm_lvt_beeb9fcd2a1fda9ad214b7e950c372fe=1592036448,1593309239,1593676772,1593714081; Hm_lpvt_beeb9fcd2a1fda9ad214b7e950c372fe=1593959176
+If-None-Match: "1533635395.0-525-1202327438"
+If-Modified-Since: Tue, 07 Aug 2018 09:49:55 GMT
+
+HTTP/1.1 304 NOT MODIFIED
+Server: nginx/1.14.0
+Date: Sun, 05 Jul 2020 14:26:18 GMT
+Connection: keep-alive
+Cache-Control: public, max-age=43200
+Expires: Mon, 06 Jul 2020 02:26:18 GMT
+ETag: "1533635395.0-525-1202327438"
+Accept-Ranges: bytes
+
+GET /static/images/ctf/simple.png HTTP/1.1
+Host: ctf.ssleye.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://ctf.ssleye.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: Hm_lvt_34a942241ce2f6c20e8a5dc3069deee3=1589725229; Hm_lvt_beeb9fcd2a1fda9ad214b7e950c372fe=1592036448,1593309239,1593676772,1593714081; Hm_lpvt_beeb9fcd2a1fda9ad214b7e950c372fe=1593959176
+If-None-Match: "1533635402.0-331-1215696807"
+If-Modified-Since: Tue, 07 Aug 2018 09:50:02 GMT
+
+HTTP/1.1 304 NOT MODIFIED
+Server: nginx/1.14.0
+Date: Sun, 05 Jul 2020 14:26:18 GMT
+Connection: keep-alive
+Cache-Control: public, max-age=43200
+Expires: Mon, 06 Jul 2020 02:26:18 GMT
+ETag: "1533635402.0-331-1215696807"
+Accept-Ranges: bytes
+
+GET /static/images/ctf/peigen.png HTTP/1.1
+Host: ctf.ssleye.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://ctf.ssleye.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: Hm_lvt_34a942241ce2f6c20e8a5dc3069deee3=1589725229; Hm_lvt_beeb9fcd2a1fda9ad214b7e950c372fe=1592036448,1593309239,1593676772,1593714081; Hm_lpvt_beeb9fcd2a1fda9ad214b7e950c372fe=1593959176
+If-None-Match: "1533635398.0-406-1205342101"
+If-Modified-Since: Tue, 07 Aug 2018 09:49:58 GMT
+
+HTTP/1.1 304 NOT MODIFIED
+Server: nginx/1.14.0
+Date: Sun, 05 Jul 2020 14:26:19 GMT
+Connection: keep-alive
+Cache-Control: public, max-age=43200
+Expires: Mon, 06 Jul 2020 02:26:19 GMT
+ETag: "1533635398.0-406-1205342101"
+Accept-Ranges: bytes
+
+GET /static/images/ctf/uuencode.png HTTP/1.1
+Host: ctf.ssleye.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://ctf.ssleye.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: Hm_lvt_34a942241ce2f6c20e8a5dc3069deee3=1589725229; Hm_lvt_beeb9fcd2a1fda9ad214b7e950c372fe=1592036448,1593309239,1593676772,1593714081; Hm_lpvt_beeb9fcd2a1fda9ad214b7e950c372fe=1593959176
+If-None-Match: "1533635401.0-1029-1768362101"
+If-Modified-Since: Tue, 07 Aug 2018 09:50:01 GMT
+
+HTTP/1.1 304 NOT MODIFIED
+Server: nginx/1.14.0
+Date: Sun, 05 Jul 2020 14:26:19 GMT
+Connection: keep-alive
+Cache-Control: public, max-age=43200
+Expires: Mon, 06 Jul 2020 02:26:19 GMT
+ETag: "1533635401.0-1029-1768362101"
+Accept-Ranges: bytes
+
+GET /static/images/ctf/brainfuck.png HTTP/1.1
+Host: ctf.ssleye.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://ctf.ssleye.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: Hm_lvt_34a942241ce2f6c20e8a5dc3069deee3=1589725229; Hm_lvt_beeb9fcd2a1fda9ad214b7e950c372fe=1592036448,1593309239,1593676772,1593714081; Hm_lpvt_beeb9fcd2a1fda9ad214b7e950c372fe=1593959176
+If-None-Match: "1533635394.0-783-2039288018"
+If-Modified-Since: Tue, 07 Aug 2018 09:49:54 GMT
+
+HTTP/1.1 304 NOT MODIFIED
+Server: nginx/1.14.0
+Date: Sun, 05 Jul 2020 14:26:19 GMT
+Connection: keep-alive
+Cache-Control: public, max-age=43200
+Expires: Mon, 06 Jul 2020 02:26:19 GMT
+ETag: "1533635394.0-783-2039288018"
+Accept-Ranges: bytes
+
+GET /static/images/ctf/http_head.png HTTP/1.1
+Host: ctf.ssleye.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Referer: http://ctf.ssleye.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: Hm_lvt_34a942241ce2f6c20e8a5dc3069deee3=1589725229; Hm_lvt_beeb9fcd2a1fda9ad214b7e950c372fe=1592036448,1593309239,1593676772,1593714081; Hm_lpvt_beeb9fcd2a1fda9ad214b7e950c372fe=1593959176
+If-None-Match: "1533635397.0-727-2046038222"
+If-Modified-Since: Tue, 07 Aug 2018 09:49:57 GMT
+
+HTTP/1.1 304 NOT MODIFIED
+Server: nginx/1.14.0
+Date: Sun, 05 Jul 2020 14:26:19 GMT
+Connection: keep-alive
+Cache-Control: public, max-age=43200
+Expires: Mon, 06 Jul 2020 02:26:19 GMT
+ETag: "1533635397.0-727-2046038222"
+Accept-Ranges: bytes
+
+GET /base64.html HTTP/1.1
+Host: ctf.ssleye.com
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Referer: http://ctf.ssleye.com/
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: Hm_lvt_34a942241ce2f6c20e8a5dc3069deee3=1589725229; Hm_lvt_beeb9fcd2a1fda9ad214b7e950c372fe=1592036448,1593309239,1593676772,1593714081; Hm_lpvt_beeb9fcd2a1fda9ad214b7e950c372fe=1593959176
+
+HTTP/1.1 200 OK
+Server: nginx/1.14.0
+Date: Sun, 05 Jul 2020 14:26:44 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Content-Encoding: gzip
+
+1139
+...........\{s....?...s+iF ).-S....In.(.ro.LF...$d.`..#Mf.$r.4....o,9v\?..........~.
+ .W.B...H..$....;.......c..}....^z....F.	Y3..z!.](..^..d..D..D7.9........PI..FRD.-.PL*NR]I+.1.M.....T.|$...c....5..b..u..T....).:...PNQO.:.
+F.....e
+
+.G..N....a.5)&...4..WQ.........I...E..G:k....g).........Z..@.......A*gh...5...F.I.N..+_.)E6..2.V......*.Br.!.....y2.........
+9*.........D..2....v&.h*G...!.\d.d..H.@.b.P.......)...RUi.4G.YM.....UQ..!.J.*...]q.Y....q.x..?N..<*......;z._`.3.H.t.d
+.'.......,*....GM.............t....pT.	b.`.>..J....34*iy....9:.(.5..-{..X.......3.._U,.).%<5%c..9.U%..#K)X..G..W.rd.R..D4.....TL2.~..;.vc`(p9..Z.b.t.DX.&.$
+.#/f..P.O.,.IZN...C.x.O_.a..C....	..`j..hN#r.0O.....V.....t.H...(
+....k....JK.
+....7l...I.....)..........Z...jMk......y.X.$+.n1*....X.b.5..#m.B.....A..:+c ..'....`b........$'HGZ&.DNtt.zi.w\..M.i.CC...z...i.......|y..w...F......8i...L..jP.<B.?..l.]0\.?lku..pX..../$cX....4y.k..'eeR.r.0.#...........WT!......Z.......L`..M.t".k.*....L..&......h...*.z.9-...I.f...|F....T..kn....."I.....JF.L.ZBfs.7F.?....W".<.......?_..].yc.._..=k..c.....,.)^..Yy`....7Js...q.5Q...Y...U2..o..y3........no>..)..g...:D..9......F..:eU.u.qOMM.\c..p.......M..mt.5..D...Z...c9....Xt..Ud*N{........e..ruWn..y..7.g./'.........5lj..>.k~.U...^U2:.*T
+. ..|........C.......:~..7...6WWJ..6Wo.A.d...p....V'.+yc...9.Pc..8A&	w..XF.~.:y...m.....k..(e...m..*JD.....l.%..Q.......x7%.K.c..c.E.
++L....\........@$2.	..1.N&E.o...x.2I.V...O..}.l.N.4_...,M.Yz.E{...B..gi&.].7X"4f^........w^......t.e6NUO.c../:.%H....X....I
+...v.|....:.QBh'.. ...t..{..si.x.!...q.#.R./...?..-.YB.#.......?.n/.>h)$.X.R.T.......1..x[..T].|..G.\.4......U<.y.`......s..A..
+.{.\.<... Lw.......f....I..N*................'..g...../o.x...|.N..2..}st.x..~ 3.xz=.
+....u.zE....c$.U}..x..+.p.n..[5..U......L3=+6...gE.t.....t..o.....!.......3.VT...\.f.|..O..`z........}..P..C.P.......gV.G.6.O..l....XL.e.....y..[d)...........#@t..O../.t1..O..T+....\.....lhq.E..Sw..
+..F..Bh..f.....\
+_.0...i..
+..^:4. ...g..5.&.....+.!.0e.&..............ohl,..7.....E..-.L.z...ah`\.!.e..}hD.(.4...[s..:..]...'.fvt...........K..-....~...J.=`.'..UaU.c`..}..T...+.K..d
+.Qn........S...T.f.......\..PtK.......k....Xs?.....	>{........EI:.O....x.p.._.........]
+.....tx.~.'.zhiY...z.%...........g..	.HH.qx84..D...WC#J..D..c..........;.=........nI.:...6..4...;...h....R....p.%..|t..d.*....e/.f.o.~..7y......h..	.<D....t.z.....Q..E...W.-.....f..^...i.m./.....j.s.Vq....>3._......zK...LU...I.>..b7....._%.....\.B.....#.K.....
+...Uu_.E/.P..=Dn...@G<...Lq.R...].x....a.......V`...l....h.....x..E.9S%5HX...B.6h.c....Q....Q.U{...2.).h&..%.]....$.ZX....b.d.~_'...q|...!...8...5.....B..ctX.{R.M.	...D.f.	...[..*....^.N....a8!..poz..u.@....]...fm...
+m.@0..3X...O".a.M...........xu.....GdO...N..%...............$2..PD....f....
+FJO/.........S.0r.12..._2Q...."(2.........S..t....J.b.]cs.k...>D..<5V.A..x@Y.dm...i.J....,o...pE..D.....H.V.I0se.#C.:.K6.F...$(X..?r...I.k....H4....3..'&..y...T..Cc......XL8..z.1..o..j.2.....=P2=..@2...C.h.X...I...[`..5.z..v...3?.{...NC.	+jH.....j ........:u.6g@....Z*.w........:.3.D'....;.V...a.A..X.L.D.\q...S...w..*.q)o>...|k...}....Ch...6..Na.........:....l.v..^..{o....\.W...G...,z.T..4...MY.....4aO.6....+.7.l.....PH.F.`..VSF.0..V.9d8.....J..a.?.......1...&...........$c.,v... .f.{.v..p1..I?...xZ.h].N5...G.0...~w.~Pc.|...^^.;.YK...,.....?.J......&F.`.@...........|@0..E..8.{DH...3{.s..........x.q.P.(.....+...&....!..\..2.u.j..7.gw....B........]
+..e.T._$.I..s....T..W.........U!.=[..*.0{.o...`........s.fi...f.bWR.y~.F..0.......7..%..
+;C.Q......>S0...........hr...-.XE...P...;...<-=Z..N.#aw..2p.]<.;~...w..MX.S..Z....'..k7......B......o..Q.........)
+L...7.=..1.1.A......2....&@u.t...............o.!.x.0:.......~.j....).-L.....x.,.9wk_...|.\..h..X.1.
+h..g..di..c.~.xm..d.U..<a...H..~.o.......Y...
+....[?=...4,..
+.s/.kM...jZ....Jw....
+..Gj...2
+.q.m........../JKk.....k.K|....9...:...._.cPX..w......t...)	..2.x..U....<..5...)........8E1
+1.(f4.MF%.N.n}..+GG...&..xGw<n.?B...m.`8s.xf.Y....'....;.....l..|...i.7...........l.)?. ..e	...H.b..v.Q...:.u..6.Y9.e..wZ0..&.Z.[p|...Tr-....C%.3%.$.`.7......t{._........H....../..B.gQ}.0.q..b...G..5{..}....bD..4.U..gV......Ol.....o..i<."G.d...=..K.B...........9..#.+.|a.........3.4...-|V..2
+.....LL..d.aQ..0.W..+.
+"H.S5.#.{1J&.t...K.h;..y}t,....Z.`..@.O.`...e.m>E&.*.......<....F.._..$..b.bY....<Fc..o.n].a..#......bk.8(v.JK....2.Zua.`q.'.B..:5-...!9.V..........6...h.`c....
+m..D.....l..|..a..Oh-\.
+....g.8.v..?......L..
+0
+
+POST /ctf/ctf_encode HTTP/1.1
+Host: ctf.ssleye.com
+Connection: keep-alive
+Content-Length: 85
+Accept: text/html, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Origin: http://ctf.ssleye.com
+Referer: http://ctf.ssleye.com/base64.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: Hm_lvt_34a942241ce2f6c20e8a5dc3069deee3=1589725229; Hm_lvt_beeb9fcd2a1fda9ad214b7e950c372fe=1592036448,1593309239,1593676772,1593714081; Hm_lpvt_beeb9fcd2a1fda9ad214b7e950c372fe=1593959203
+
+text=here+not+have+flag%2C+you+should+found+another+way!&flag=base16&encode_flag=utf8HTTP/1.1 200 OK
+Server: nginx/1.14.0
+Date: Sun, 05 Jul 2020 14:27:31 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Content-Encoding: gzip
+
+e6
+..........MNAn. .....9.6.Y......p.&H( ..............f..1-V..x}...S+c....<...l..=.
+..7...Ct.(B.Lv..}.s.I)s........f..z..~O. .ua..}.r..hK....|.i..O........-._.z...A.p.=g.g.\..?.=..P..3P...:~D.].G..*..._
+.k...N.9GFE.....b....i...M...
+0
+
+GET /static/layui-v2.2.45/layui/font/iconfont.woff?v=220 HTTP/1.1
+Host: ctf.ssleye.com
+Connection: keep-alive
+Origin: http://ctf.ssleye.com
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Accept: */*
+Referer: http://ctf.ssleye.com/static/layui-v2.2.45/layui/css/layui.css
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: Hm_lvt_34a942241ce2f6c20e8a5dc3069deee3=1589725229; Hm_lvt_beeb9fcd2a1fda9ad214b7e950c372fe=1592036448,1593309239,1593676772,1593714081; Hm_lpvt_beeb9fcd2a1fda9ad214b7e950c372fe=1593959203
+If-None-Match: "1514283272.0-24684-1853035825"
+If-Modified-Since: Tue, 26 Dec 2017 10:14:32 GMT
+
+HTTP/1.1 304 NOT MODIFIED
+Server: nginx/1.14.0
+Date: Sun, 05 Jul 2020 14:27:32 GMT
+Connection: keep-alive
+Cache-Control: public, max-age=43200
+Expires: Mon, 06 Jul 2020 02:27:32 GMT
+ETag: "1514283272.0-24684-1853035825"
+Accept-Ranges: bytes
+
+POST /ctf/ctf_encode HTTP/1.1
+Host: ctf.ssleye.com
+Connection: keep-alive
+Content-Length: 60
+Accept: text/html, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Origin: http://ctf.ssleye.com
+Referer: http://ctf.ssleye.com/base64.html
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: Hm_lvt_34a942241ce2f6c20e8a5dc3069deee3=1589725229; Hm_lvt_beeb9fcd2a1fda9ad214b7e950c372fe=1592036448,1593309239,1593676772,1593714081; Hm_lpvt_beeb9fcd2a1fda9ad214b7e950c372fe=1593959203
+
+text=hint%3Ayou+can+try+binwalk&flag=base16&encode_flag=utf8HTTP/1.1 200 OK
+Server: nginx/1.14.0
+Date: Sun, 05 Jul 2020 14:28:17 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Content-Encoding: gzip
+
+d4
+..........M.Mn.0......5..... 5Qr.j;.%.[.......T.3..|..^.!.F.0;..AM...i...;.%D..;>W......
+X.%...2..|..p..z.7U...........u..@Xc}..B^.;..j.K.._H...MM?..........3.....GZ....wV.+;...Z.....aV....,.3=.b..E.........k....
+0
+
